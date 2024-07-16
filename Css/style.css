@@ -1,0 +1,17 @@
+main{
+    background-color: #1E202B;
+    height: 100vh;
+    position: relative;
+    background-image: url(../banner.png);
+    background-position:center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+
+   
+}
+
+.row .card{
+    background-color: #323544;
+   color: #fff;
+}
